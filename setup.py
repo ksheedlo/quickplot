@@ -19,7 +19,7 @@ classifiers = [
 setup(
     name = "quickplot",
     packages = ['quickplot'],
-    version = "0.1",
+    version = "0.1.1",
     description = "The batteries-included plotting wrapper for matplotlib",
     author = "Ken Sheedlo",
     author_email = "ovrkenthousand@gmail.com",
@@ -27,7 +27,7 @@ setup(
     download_url = "https://github.com/ksheedlo/quickplot/archive/master.zip",
     classifiers = classifiers,
     install_requires = [
-        "matplotlib >= 1.1.0",
-        "numpy >= 1.5.0"
+        "numpy >= 1.5.0",
+        "matplotlib >= 1.1.0"
         ]
     )
