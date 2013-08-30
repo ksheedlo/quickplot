@@ -1,4 +1,1 @@
-quickplot
-=========
-
-The batteries-included plotting wrapper for matplotlib
+README.md
