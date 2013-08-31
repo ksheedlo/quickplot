@@ -26,8 +26,9 @@ setup(
     url = "https://github.com/ksheedlo/quickplot",
     download_url = "https://github.com/ksheedlo/quickplot/archive/master.zip",
     classifiers = classifiers,
+    dependency_links = ['https://github.com/matplotlib/matplotlib/tarball/v1.3.x#egg=matplotlib-1.3.0'],
     install_requires = [
         "numpy >= 1.5.0",
-        "matplotlib >= 1.1.0"
+        "matplotlib >= 1.3.0"
         ]
     )
