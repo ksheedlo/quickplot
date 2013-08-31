@@ -19,7 +19,7 @@ classifiers = [
 setup(
     name = "quickplot",
     packages = ['quickplot'],
-    version = "0.1.1",
+    version = "0.1.2",
     description = "The batteries-included plotting wrapper for matplotlib",
     author = "Ken Sheedlo",
     author_email = "ovrkenthousand@gmail.com",
